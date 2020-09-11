@@ -20,15 +20,5 @@ Professor Paul Watta
 
 Weekly on Tuesday @ 2 p.m.
 
-## Current Files
 
-### README.md
-### Project Concept #1 Sketch
-### Project Concept #2 Sketch
-### Task list
-### Class Syllabus
-### Hung's Schedule
-### Matt's Schedule
-### Physics Reference - Standing Waves and Air Columns
-### Senior Design 1 Fall 2020 Deadlines
 
