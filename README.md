@@ -3,22 +3,32 @@
 ## Purpose
 Repository used to store plans, timeline, source code, status, data for ECE 4981 Senior Design Project
 
-## Team (Think about this)
+## Team
+Team Sound Logic
 
-## Members (4 members)
+## Members
 
-Matt Falconer & Hung Do
+Matt Falconer & Abdullah Abdulrahman
 
 ## Faculty Advisors
 
-Prof Putty and other Prof when needed
+Professor Paul Watta
 
 ## Brief Project Description
 
 ## Recurring Meeting
 
-Post member's schedule
+Weekly on Tuesday @ 2 p.m.
 
 ## Current Files
 
 README.md
+Project Concept #1 Sketch
+Project Concept #2 Sketch
+Task list
+Class Syllabus
+Hung's Schedule
+Matt's Schedule
+Physics Reference - Standing Waves and Air Columns
+Senior Design 1 Fall 2020 Deadlines
+
